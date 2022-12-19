@@ -14,3 +14,6 @@ For this reason, I thought of the following system:
   - Generate the number and the person whose number is assigned is doomed and should go get the pizza kkkkkkkkkkkkk.
   
 We are open for new ideas for criticism for this method and new ideas of methods even more fair than this one.
+
+Of course, if you are struggling with a similar decision problem, you could use my code! Just clone it and use python to run the main.py file.
+Also, you can change the print statements in the main.py file to better suit your needs.
